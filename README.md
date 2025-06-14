@@ -80,6 +80,7 @@ After training, the model is evaluated using standard regression metrics to dete
 house-price-prediction/
 │
 ├── house-price-prediction.ipynb    # Main notebook
+├── house_pricing.csv               # Dataset for training
 └── README.md                       # Project documentation
 ```
 
